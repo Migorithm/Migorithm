@@ -6,6 +6,10 @@
 - Oracle
 - Docker
 - Spark
+- front
+ - javascript
+ - jquery
+ - vue
 - Algorithm
 
 
