@@ -7,9 +7,9 @@
 - Docker
 - Spark
 - front
- - javascript
- - jquery
- - vue
+  - javascript
+  - jquery
+  - vue
 - Algorithm
 
 
