@@ -21,16 +21,26 @@
   - Docker Compose 
   - https://github.com/Migorithm/learning/tree/main/Docker
 
-- DB
+- Kubernetes
+  - https://github.com/Migorithm/migo_k8s
+
+- RDB
   - Oracle
     - https://github.com/Migorithm/learning/tree/main/Oracle
 
+- NOSQL
   - MongoDB  
     - Advanced Query   
     - geoquery
     - ReplicaSet 
     - Sharding
     - https://github.com/Migorithm/learning/tree/main/MongoDB
+  - Elasticstack
+    - https://github.com/Migorithm/migo_elk
+ 
+  - Redis
+    - https://github.com/Migorithm/migo_redis
+
 
 - front
   - javascript
