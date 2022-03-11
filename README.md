@@ -12,9 +12,10 @@
     - https://github.com/Migorithm/DataScience/tree/main/02_MachineLearning
     - https://github.com/Migorithm/DataScience/tree/main/03_DeepLearning
     
-  - RESTful API
-    - Flask
-    - https://github.com/Migorithm/project_blog
+- RESTful API
+  - Flask
+  - https://github.com/Migorithm/migo_server_management
+  - https://github.com/Migorithm/migo_server_management_agent
 
 - Docker
   - Docker CLI
