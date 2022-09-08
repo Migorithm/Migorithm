@@ -12,8 +12,9 @@
     - https://github.com/Migorithm/DataScience/tree/main/02_MachineLearning
     - https://github.com/Migorithm/DataScience/tree/main/03_DeepLearning
     
-- RESTful API
-  - Flask
+- Web Engineering
+  - FastAPI, Flask
+  - https://github.com/Migorithm/async_uow
   - https://github.com/Migorithm/migo_server_management
   - https://github.com/Migorithm/migo_server_management_agent
 
@@ -36,18 +37,12 @@
     - ReplicaSet 
     - Sharding
     - https://github.com/Migorithm/learning/tree/main/MongoDB
+    
   - Elasticstack
     - https://github.com/Migorithm/migo_elk
  
   - Redis
     - https://github.com/Migorithm/migo_redis
-
-
-- front
-  - javascript
-  - jquery
-  - vue
-  - https://github.com/Migorithm/front_work
 
 - Spark
   - https://github.com/Migorithm/DataScience  
