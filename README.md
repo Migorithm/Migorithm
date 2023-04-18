@@ -3,8 +3,8 @@
     
 - Web Engineering
   - Python - FastAPI, Flask
-    - [https://github.com/Migorithm/async_uow](https://github.com/Migorithm/QUOTATION)
-    - [https://github.com/Migorithm/migo_server_management](https://github.com/Migorithm/IAM)
+    - https://github.com/Migorithm/QUOTATION
+    - https://github.com/Migorithm/IAM
 
   - Rust
     - https://github.com/Migorithm/QAService
