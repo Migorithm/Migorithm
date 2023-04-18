@@ -1,22 +1,13 @@
 ## Migo 
 - Python
-  - DataAnalysis  
-    - Numpy
-    - Pandas
-    - Visualisation(matplolib, Seaborn) 
-    - https://github.com/Migorithm/DataScience/tree/main/01_DataAnalysis <br><br>
-  - Machine Learning  
-    - Pytorch
-    - TensorFlow  <br><br>
-    - Spark MLlib
-    - https://github.com/Migorithm/DataScience/tree/main/02_MachineLearning
-    - https://github.com/Migorithm/DataScience/tree/main/03_DeepLearning
     
 - Web Engineering
-  - FastAPI, Flask
-  - https://github.com/Migorithm/async_uow
-  - https://github.com/Migorithm/migo_server_management
-  - https://github.com/Migorithm/migo_server_management_agent
+  - Python - FastAPI, Flask
+    - [https://github.com/Migorithm/async_uow](https://github.com/Migorithm/QUOTATION)
+    - [https://github.com/Migorithm/migo_server_management](https://github.com/Migorithm/IAM)
+
+  - Rust
+    - https://github.com/Migorithm/QAService
 
 - Docker
   - Docker CLI
@@ -26,9 +17,7 @@
 - Kubernetes
   - https://github.com/Migorithm/migo_k8s
 
-- RDB
-  - Oracle
-    - https://github.com/Migorithm/learning/tree/main/Oracle
+
 
 - NOSQL
   - MongoDB  
@@ -43,11 +32,6 @@
  
   - Redis
     - https://github.com/Migorithm/migo_redis
-
-- Spark
-  - https://github.com/Migorithm/DataScience  
-
-
 
 
 
