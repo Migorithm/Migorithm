@@ -1,5 +1,9 @@
 ## Migo 
+
+Languages I like: 
+- Rust
 - Python
+
     
 - Web Engineering
   - Python - FastAPI, Flask
