@@ -1,10 +1,12 @@
 ## Migo 
 
-Languages I like: 
+### Languages I like: 
 - Rust
 - Python
+<br>
 
-    
+
+### Repositories    
 - Web Engineering
   - Python - FastAPI, Flask
     - https://github.com/Migorithm/QUOTATION
