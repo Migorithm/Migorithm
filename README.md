@@ -8,21 +8,24 @@
 
 ### Repositories    
 - Web Engineering
-  - Python - FastAPI, Flask
-    - https://github.com/Migorithm/QUOTATION
+  - Python - FastAPI, Flask  
     - https://github.com/Migorithm/IAM
+      - Event-driven architecture 
+      - Domain Driven Design 
+      - Asynchrous
 
   - Rust
     - https://github.com/Migorithm/QAService
+    - https://github.com/Migorithm/rust-axum-todo
+    - https://github.com/Migorithm/rusty-chat
 
-- Docker
-  - Docker CLI
-  - Docker Compose 
-  - https://github.com/Migorithm/learning/tree/main/Docker
-
-- Kubernetes
-  - https://github.com/Migorithm/migo_k8s
-
+- GitOps & Helm
+  - https://github.com/Migorithm/gitops
+    - Kubernetes (https://github.com/Migorithm/kubernetes-basic)
+    - Docker
+    - ArgoCD
+    - SealedSecret (For Secret Encryption)
+    - LetsEncrypt (For HTTPS)
 
 
 - NOSQL
@@ -31,13 +34,12 @@
     - geoquery
     - ReplicaSet 
     - Sharding
-    - https://github.com/Migorithm/learning/tree/main/MongoDB
     
   - Elasticstack
-    - https://github.com/Migorithm/migo_elk
+    - https://github.com/Migorithm/elastic-stack-management
  
   - Redis
-    - https://github.com/Migorithm/migo_redis
+    - https://github.com/Migorithm/redis-management
 
 
 
