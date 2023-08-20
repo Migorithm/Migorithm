@@ -46,11 +46,15 @@
 <br><br>
 
 <div align=right>
+  ![Migorithm's Stats](https://github-readme-stats.vercel.app/api?username=Migorithm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
- ![Migo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migorithm&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
+  ![Migorithm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Migorithm&theme=vue-dark&hide_border=true)
+  
+  ![Migorithm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Migorithm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migorithm&layout=compact&theme=tokyonight)
+
+
   </div>
 
 
