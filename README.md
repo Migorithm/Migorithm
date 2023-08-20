@@ -47,7 +47,7 @@
 
 <div align=right>
 
- [Migo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migorithm&theme=highcontrast&show_icons=true)
+ ![Migo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migorithm&theme=highcontrast&show_icons=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migorithm&layout=compact&theme=tokyonight)
