@@ -15,8 +15,7 @@
       - Asynchrous
 
   - Rust
-    - https://github.com/Migorithm/QAService
-    - https://github.com/Migorithm/rust-axum-todo
+    - https://github.com/BeringLab/ruva
     - https://github.com/Migorithm/rusty-chat
 
 - GitOps & Helm
