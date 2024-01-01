@@ -8,17 +8,17 @@
 
 
 ### Repositories    
-- Web Engineering
-  - Python - FastAPI, Flask  
-    - https://github.com/Migorithm/IAM
-      - Event-driven architecture 
-      - Domain Driven Design 
-      - Asynchrous
-
+- Server-side development
   - Rust
     - https://github.com/BeringLab/ruva
     - https://github.com/Migorithm/rusty-chat
 
+  - Python - FastAPI, Flask  
+    - https://github.com/Migorithm/IAM
+      - Event-driven architecture 
+      - Domain Driven Design 
+      - Asynchronous
+  
 - GitOps & Helm
   - https://github.com/Migorithm/gitops
     - Kubernetes (https://github.com/Migorithm/kubernetes-basic)
@@ -35,11 +35,13 @@
     - ReplicaSet 
     - Sharding
     
-  - Elasticstack
+  - Elastic stack
     - https://github.com/Migorithm/elastic-stack-management
  
   - Redis
     - https://github.com/Migorithm/redis-management
+   
+  - NATs
 
 
 
@@ -54,9 +56,10 @@
   ![Migorithm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Migorithm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
-
-
   </div>
+
+<br><br>
+
 
 ### Tech Blog
 https://velog.io/@migorithm/posts
