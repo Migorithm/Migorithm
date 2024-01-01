@@ -45,7 +45,7 @@
 
 <br><br>
 
-<div align=right>
+<div align=center>
   
   ![Migorithm's Stats](https://github-readme-stats.vercel.app/api?username=Migorithm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
