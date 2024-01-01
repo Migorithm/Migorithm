@@ -10,7 +10,7 @@
 ### Repositories    
 - Server-side development
   - Rust
-    - Event-driven Framework[https://github.com/BeringLab/ruva]
+    - <a href="https://github.com/BeringLab/ruva" > Event-driven Framework<a> 
     - https://github.com/Migorithm/rusty-chat
     - 
 
