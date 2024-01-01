@@ -10,9 +10,9 @@
 ### Repositories    
 - Server-side development
   - Rust
-    - <a href="https://github.com/BeringLab/ruva" > Event-driven Framework<a> 
-    - https://github.com/Migorithm/rusty-chat
-    - 
+    - <a href="https://github.com/BeringLab/ruva" > Ruva, Event-driven Framework Written In Rust<a> 
+    - <a href="https://github.com/Migorithm/rusty-chat" > Simple chat application <a>
+    - <a href="https://github.com/Migorithm/cqrs"> Event-sourcing Framework <a>
 
   - Python - FastAPI, Flask  
     - https://github.com/Migorithm/IAM
