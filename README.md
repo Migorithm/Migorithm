@@ -1,11 +1,5 @@
 ## Migo 
 
-### Languages I like: 
-- English/Korean
-- Rust
-- Python
-<br>
-
 
 ### Repositories    
 - Server-side development
