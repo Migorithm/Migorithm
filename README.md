@@ -10,8 +10,8 @@
 ### Repositories    
 - Server-side development
   - Rust
+    - <a href="https://github.com/Migorithm/duva" > Duva, Distributed Key-Value Storage<a>
     - <a href="https://github.com/Migorithm/ruva" > Ruva, Event-driven Framework <a>
-    - <a href="https://github.com/Migorithm/duva" > Duva, Distributed In Memory Database<a>
     - <a href="https://github.com/Migorithm/rusty-chat" > Simple chat application <a>
     - <a href="https://github.com/Migorithm/cqrs"> Event-sourcing Framework <a>
 
