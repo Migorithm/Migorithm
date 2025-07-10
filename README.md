@@ -1,43 +1,37 @@
 ## Migo 
+Should I write something for show-off or self-reflection? I’m not sure…
+
+I'm more interested in the *process* than the *result*.  
+Sound counter-productive? Then you might want to skip me over 😉
 
 
-### Repositories    
-- Server-side development
-  - Rust
-    - <a href="https://github.com/Migorithm/duva" > Duva, Distributed Key-Value Storage<a>
-    - <a href="https://github.com/Migorithm/ruva" > Ruva, Event-driven Framework <a>
-    - <a href="https://github.com/Migorithm/rusty-chat" > Simple chat application <a>
-    - <a href="https://github.com/Migorithm/cqrs"> Event-sourcing Framework <a>
-
-  - Python - FastAPI, Flask  
-    - https://github.com/Migorithm/IAM
-      - Event-driven architecture 
-      - Domain Driven Design 
-      - Asynchronous
-  
-- GitOps & Helm
-  - https://github.com/Migorithm/gitops
-    - Kubernetes (https://github.com/Migorithm/kubernetes-basic)
-    - Docker
-    - ArgoCD
-    - SealedSecret (For Secret Encryption)
-    - LetsEncrypt (For HTTPS)
 
 
-- NOSQL
-  - MongoDB  
-    - Advanced Query   
-    - geoquery
-    - ReplicaSet 
-    - Sharding
-    
-  - Elastic stack
-    - https://github.com/Migorithm/elastic-stack-management
- 
-  - Redis
-    - https://github.com/Migorithm/redis-management
-   
-  - NATs
+#### 🦀 Rust Projects
+- [Duva – Distributed Key-Value Storage](https://github.com/Migorithm/duva)
+- [Ruva – Event-Driven Framework](https://github.com/Migorithm/ruva)
+- [Rusty Chat – Simple Async Chat App](https://github.com/Migorithm/rusty-chat)
+- [CQRS/Event-Sourcing Framework](https://github.com/Migorithm/cqrs)
+
+#### 🐍 Python Projects
+- [IAM](https://github.com/Migorithm/IAM)  
+  - Event-driven architecture 
+  - Domain Driven Design 
+  - Asynchronous
+
+#### ☁️ DevOps & GitOps
+- [GitOps Setup](https://github.com/Migorithm/gitops)
+  - [Kubernetes Basics](https://github.com/Migorithm/kubernetes-basic)
+  - Docker, ArgoCD, SealedSecrets, LetsEncrypt
+
+
+
+#### 🛢️ Databases & Infrastructure
+- **MongoDB**  
+  - Advanced Queries, Geoqueries, Replica Sets, Sharding  
+- [Elastic Stack](https://github.com/Migorithm/elastic-stack-management)  
+- [Redis Management Tools](https://github.com/Migorithm/redis-management)  
+- **NATS
 
 
 
