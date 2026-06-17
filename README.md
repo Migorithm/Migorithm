@@ -53,7 +53,7 @@ If that sounds counter-productive, you might want to skip me over.
 
 
 ### Tech Blog
-https://velog.io/@migorithm/posts
+[Articles](https://www.linkedin.com/in/migo-lee/recent-activity/articles/)
 
 ### Contact
 <p>
