@@ -1,38 +1,38 @@
 ## Migo 
-Should I write something for show-off or self-reflection? I’m not sure…
+Show-off or self-reflection? Somewhere in between. 
+I care more about the process of understanding a system than the result of shipping it. 
+If that sounds counter-productive, you might want to skip me over.
 
-I'm more interested in the *process* than the *result*.  
-Sound counter-productive? Then you might want to skip me over 😉
+*Consensus · replication · failure detection · partitioning & sharding · event-driven & CQRS messaging · log-structured storage.*
 
 
+#### Rust — Distributed Systems
+- [EastGuard – Zero-controller distributed messaging built for the scale that breaks Kafka](https://github.com/f-rustrated/EastGuard)
+  - Metadata sharded across many small Raft groups, so coordination throughput scales with the cluster instead of funneling through a single controller
+  - SWIM gossip for decentralized, O(log N) failure detection — no central heartbeats, no heartbeat storm
+  - Dynamic ranges that split and merge with load; segments striped across nodes for automatic balancing
+  - Seal-on-failure replication in place of Kafka's ISR — seal the segment, reopen on a healthy replica set, treat sealed data as immutable
+- [Duva – Strongly-consistent distributed key-value store](https://github.com/Migorithm/duva)
+  - Replicated storage designed around correctness under node and network failure
+- [Ruva – Event-driven framework](https://github.com/Migorithm/ruva)
+  - Message-driven core, async end to end
+- [CQRS / Event-Sourcing Framework](https://github.com/Migorithm/cqrs)
+  - Command/query separation with an append-only event log as the source of truth
 
 
-#### 🦀 Rust Projects
-- [EastGuard - Zero-controller distributed messaging built for the scale that breaks Kafka](https://github.com/f-rustrated/EastGuard)
-- [Duva – Distributed Key-Value Storage](https://github.com/Migorithm/duva)
-- [Ruva – Event-Driven Framework](https://github.com/Migorithm/ruva)
-- [Rusty Chat – Simple Async Chat App](https://github.com/Migorithm/rusty-chat)
-- [CQRS/Event-Sourcing Framework](https://github.com/Migorithm/cqrs)
+#### Python — Architecture & Patterns
+- [IAM](https://github.com/Migorithm/IAM) — identity & access management service
+  - Event-driven architecture
+  - Domain-Driven Design
+  - Async-first
 
-#### 🐍 Python Projects
-- [IAM](https://github.com/Migorithm/IAM)  
-  - Event-driven architecture 
-  - Domain Driven Design 
-  - Asynchronous
-
-#### ☁️ DevOps & GitOps
+#### DevOps & GitOps
 - [GitOps Setup](https://github.com/Migorithm/gitops)
   - [Kubernetes Basics](https://github.com/Migorithm/kubernetes-basic)
   - Docker, ArgoCD, SealedSecrets, LetsEncrypt
+ 
 
 
-
-#### 🛢️ Databases & Infrastructure
-- **MongoDB**  
-  - Advanced Queries, Geoqueries, Replica Sets, Sharding  
-- [Elastic Stack](https://github.com/Migorithm/elastic-stack-management)  
-- [Redis Management Tools](https://github.com/Migorithm/redis-management)  
-- **NATS
 
 
 
