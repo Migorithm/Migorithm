@@ -8,7 +8,7 @@ Sound counter-productive? Then you might want to skip me over 😉
 
 
 #### 🦀 Rust Projects
-- [Zero-controller distributed messaging built for the scale that breaks Kafka · Rust](https://github.com/f-rustrated/EastGuard)
+- [EastGuard - Zero-controller distributed messaging built for the scale that breaks Kafka](https://github.com/f-rustrated/EastGuard)
 - [Duva – Distributed Key-Value Storage](https://github.com/Migorithm/duva)
 - [Ruva – Event-Driven Framework](https://github.com/Migorithm/ruva)
 - [Rusty Chat – Simple Async Chat App](https://github.com/Migorithm/rusty-chat)
